@@ -18,51 +18,6 @@ height: 210%;
 width: 19%;
 }	
 
-#menu1{
-height: 2%;
-width: 49%;
-border-radius: 5px;
-font-family:arial;
-text-transform: uppercase;
-font-weight:700;
-padding:5px;
-cursor: pointer;
-position: absolute;
-top: 3%;
-left: 0%;
-text-align: center; 
-background: #ffffff;
-color:  #003380;
-text-decoration: none;
-
-}
-#menu1:hover{
-background: #002966;
-color: #ffffff;
-}
-
-#menu2{
-height: 2%;
-width: 49%;
-border-radius: 5px;
-font-family:arial;
-text-transform: uppercase;
-font-weight:700;
-padding:5px;
-cursor: pointer;
-position: absolute;
-top: 3%;
-left:50%;
-text-align: center; 
-background: #ffffff;
-color:  #003380;
-text-decoration: none;
-}
-#menu2:hover{
-background: #002966;
-color: #ffffff;
-}
-
 /* BOTÕES DO CABEÇALHO */
 
 #btn1{
@@ -140,3 +95,48 @@ font-family:arial black;
 left: 8%;
 top: 35%;
 font-size: 200%;
+}
+
+#menu1{
+height: 2%;
+width: 49%;
+border-radius: 5px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+padding:5px;
+cursor: pointer;
+position: absolute;
+top: 3%;
+left: 0%;
+text-align: center; 
+background: #ffffff;
+color:  #003380;
+text-decoration: none;
+}
+#menu1:hover{
+background: #002966;
+color: #ffffff;
+}
+
+#menu2{
+height: 2%;
+width: 49%;
+border-radius: 5px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+padding:5px;
+cursor: pointer;
+position: absolute;
+top: 3%;
+left:50%;
+text-align: center; 
+background: #ffffff;
+color:  #003380;
+text-decoration: none;
+}
+#menu2:hover{
+background: #002966;
+color: #ffffff;
+}
