@@ -93,7 +93,7 @@ text-transform: uppercase;
 color: #ffffff;
 font-family:arial black;
 left: 8%;
-top: 35%;
+top: 30%;
 font-size: 200%;
 }
 
@@ -139,4 +139,37 @@ text-decoration: none;
 #menu2:hover{
 background: #002966;
 color: #ffffff;
+}
+
+#bntcentral{
+border-style: solid;
+border-color: #ffffff; 
+border-width: 3px; 
+padding: 15px;
+width:35%;
+height:5%;
+font-size: 22px;
+border-radius: 20px;
+font-family:Candara;
+text-transform: uppercase;
+font-weight:800;
+cursor: pointer;
+position: absolute;
+top: 55%;
+left: 31%;
+text-align: center; 
+background: #002966;
+color: #ffffff;
+text-decoration: none;
+}
+#bntcentral:hover{
+background: #001f4d;
+color: #ffffff;
+border-radius: 22px;
+}
+#bntcentral:active{
+padding: 14px;
+background: #001f4d;
+color: #ffffff;
+border-radius: 25px;
 }
