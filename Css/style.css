@@ -1,0 +1,123 @@
+
+/* CABEÇALHO */
+ 
+#cabecalho{
+top:0%;
+left:0%;
+position:fixed;
+background: linear-gradient(to bottom, #0066ff 0%, #005ce6 20%, #0052cc 40%, #0047b3 60%, #003d99 80%, #003380 100% );
+height: 13%;
+width: 100%;
+ }
+ 
+#logo{
+position: absolute;
+top: -52%;
+left:0%;
+height: 210%;
+width: 19%;
+}	
+
+#menu1{
+height: 2%;
+width: 49%;
+border-radius: 5px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+padding:5px;
+cursor: pointer;
+position: absolute;
+top: 3%;
+left: 0%;
+text-align: center; 
+background: #ffffff;
+color:  #003380;
+text-decoration: none;
+
+}
+#menu1:hover{
+background: #002966;
+color: #ffffff;
+}
+
+#menu2{
+height: 2%;
+width: 49%;
+border-radius: 5px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+padding:5px;
+cursor: pointer;
+position: absolute;
+top: 3%;
+left:50%;
+text-align: center; 
+background: #ffffff;
+color:  #003380;
+text-decoration: none;
+}
+#menu2:hover{
+background: #002966;
+color: #ffffff;
+}
+
+/* BOTÕES DO CABEÇALHO */
+
+#btn1{
+border-radius:10px 0px 0px 10px;
+margin-left: -8px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+border-style: solid;
+border-color: #ffffff; 
+border-width: 3px; 
+padding:8px;
+cursor:pointer;
+position: absolute;
+top: 33%;
+left: 78%;
+background:#008ae6;
+color: #ffffff;
+text-decoration: none;
+}
+
+#btn1:hover{
+background: #007acc;
+color: #ffffff;
+}
+
+#btn1:active{
+border-radius:9px 0px 0px 9px;
+padding:7px;
+}
+
+#btn2{
+border-radius:0px 10px 10px 0px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+border-style: solid;
+border-color: #ffffff; 
+border-width: 3px; 
+padding:8px;
+cursor:pointer;
+position: absolute;
+top: 33%;
+left: 88%;
+background:#008ae6;
+color: #ffffff;
+text-decoration: none;
+}
+
+#btn2:hover{
+background: #007acc;
+color: #ffffff;
+}
+
+#btn2:active{
+border-radius:0px 9px 9px 0px;
+padding:7px;
+} 
