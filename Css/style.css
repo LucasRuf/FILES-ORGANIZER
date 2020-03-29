@@ -183,5 +183,28 @@ background-position: 50%;
 background-repeat: no-repeat;
 height: 50%;
 width: 100%;
+}
 
+#titulo_central2{
+font-size: 25px;
+font-weight: bold;
+text-transform: uppercase;
+font-family: arial black;
+color: #002966;	
+top: -40%;
+left: 25% ;
+position: absolute;
+text-align: center;
+}
+
+#texto_secundario{
+font-size: 15px;
+font-weight: bold;
+text-transform: uppercase;
+font-family: Arial;
+color: #003d99;	
+top: -25%;
+left: 27%;
+position: absolute;
+text-align: center;
 }
