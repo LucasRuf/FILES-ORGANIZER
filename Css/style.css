@@ -174,14 +174,16 @@ color: #ffffff;
 border-radius: 25px;
 }
 
+/* CONTEÚDO 2*/
+
 #conteudo2{
-top: 120%;
+top: 101%;
 left:0%;
 position: absolute;
 background-image: url(../Imagens/BackgroundPropriedades.png);
 background-position: 50%;
 background-repeat: no-repeat;
-height: 50%;
+height: 80%;
 width: 100%;
 }
 
@@ -191,7 +193,7 @@ font-weight: bold;
 text-transform: uppercase;
 font-family: arial black;
 color: #002966;	
-top: -40%;
+top: 1%;
 left: 25% ;
 position: absolute;
 text-align: center;
@@ -203,23 +205,34 @@ font-weight: bold;
 text-transform: uppercase;
 font-family: Arial;
 color: #003d99;	
-top: -25%;
+top: 10%;
 left: 27%;
 position: absolute;
 text-align: center;
 }
 
+/* CONTEÚDO 3*/
+
 #conteudo3{
-top: 185%;
+top: 181%;
 left:0%;
 position: absolute;
 background-image: url(../Imagens/BackgroundDisponibilidade.png);
 background-position: 50%;
 background-repeat: no-repeat;
-height: 50%;
+height: 70%;
 width: 100%;
 }
 
-#bory{
-background-color:red;
+#rodape{
+top:250%;
+left:0%;
+position: absolute;
+background: #003380;
+height: 40%;
+width: 100%;
+}
+
+body{
+background-color: black;
 }
