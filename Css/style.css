@@ -173,3 +173,15 @@ background: #001f4d;
 color: #ffffff;
 border-radius: 25px;
 }
+
+#conteudo2{
+top: 120%;
+left:0%;
+position: absolute;
+background-image: url(../Imagens/BackgroundPropriedades.png);
+background-position: 50%;
+background-repeat: no-repeat;
+height: 50%;
+width: 100%;
+
+}
