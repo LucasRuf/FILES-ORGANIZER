@@ -208,3 +208,18 @@ left: 27%;
 position: absolute;
 text-align: center;
 }
+
+#conteudo3{
+top: 185%;
+left:0%;
+position: absolute;
+background-image: url(../Imagens/BackgroundDisponibilidade.png);
+background-position: 50%;
+background-repeat: no-repeat;
+height: 50%;
+width: 100%;
+}
+
+#bory{
+background-color:red;
+}
