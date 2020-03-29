@@ -33,7 +33,7 @@ padding:8px;
 cursor:pointer;
 position: absolute;
 top: 33%;
-left: 78%;
+left: 79%;
 background:#008ae6;
 color: #ffffff;
 text-decoration: none;
@@ -318,5 +318,27 @@ font-family:Trebuchet MS;
 font-size: 11pt;
 top: 33%;
 left: 60%;
+text-align: center;
+}
+
+#rodapetitulo4{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:arial black;
+font-size: 15px;
+top: 20%;
+left: 85%;
+text-align: center;
+}
+
+#rodapetexto4{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:Trebuchet MS;
+font-size: 11pt;
+top: 33%;
+left: 82%;
 text-align: center;
 }	
