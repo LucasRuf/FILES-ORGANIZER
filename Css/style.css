@@ -1,5 +1,5 @@
 
-/* CABEÇALHO */
+/*==================== CABEÇALHO ====================*/
  
 #cabecalho{
 top:0%;
@@ -18,7 +18,7 @@ height: 210%;
 width: 19%;
 }	
 
-/* BOTÕES DO CABEÇALHO */
+/*-----BOTÕES DO CABEÇALHO -----*/
 
 #btn1{
 border-radius:10px 0px 0px 10px;
@@ -77,7 +77,8 @@ border-radius:0px 9px 9px 0px;
 padding:7px;
 } 
 
-/* CONTEÚDO 1*/						
+/*==================== CONTEÚDO 1====================*/
+						
 #conteudo1{
 top:11%;
 left:0%;
@@ -174,7 +175,7 @@ color: #ffffff;
 border-radius: 25px;
 }
 
-/* CONTEÚDO 2*/
+/*==================== CONTEÚDO 2 ====================*/
 
 #conteudo2{
 top: 101%;
@@ -211,7 +212,7 @@ position: absolute;
 text-align: center;
 }
 
-/* CONTEÚDO 3*/
+/*==================== CONTEÚDO 3 ====================*/
 
 #conteudo3{
 top: 181%;
@@ -224,6 +225,8 @@ height: 70%;
 width: 100%;
 }
 
+/*==================== RODAPÉ ====================*/
+
 #rodape{
 top:250%;
 left:0%;
@@ -233,6 +236,87 @@ height: 40%;
 width: 100%;
 }
 
-body{
-background-color: black;
+#logorodape{
+position: absolute;
+top: 8%;
+left:40%;
+height: 70%;
+width: 18%;
 }
+
+a{
+color: #ffffff;
+font-size: 11pt;
+text-decoration: none;
+ }
+
+a:hover{
+color:#bfbfbf;
+}
+
+#rodapetitulo1{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:arial black;
+font-size: 15px;
+top: 20%;
+left: 10%;
+text-align: center;
+}
+	
+#rodapetexto1{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:Trebuchet MS;
+font-size: 11pt;
+top: 33%;
+left: 5%;
+text-align: center;
+}	
+
+#rodapetitulo2{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:arial black;
+font-size: 15px;
+top: 20%;
+left: 28%;
+text-align: center;
+}	
+
+#rodapetexto2{
+font-style:italic;
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:Trebuchet MS;
+font-size: 11pt;
+top: 33%;
+left: 27%;
+text-align: center;
+}	
+
+#rodapetitulo3{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:arial black;
+font-size: 15px;
+top: 20%;
+left: 61%;
+text-align: center;
+}
+	
+#rodapetexto3{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:Trebuchet MS;
+font-size: 11pt;
+top: 33%;
+left: 60%;
+text-align: center;
+}	
