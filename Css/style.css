@@ -350,4 +350,15 @@ left:45%;
 color: #d9d9d9;
 font-family:Cambria;
 font-size: 15px;
-}	
+}
+
+/*==================== PÁGINA UPLOAD ====================*/
+
+#backgroundupload{
+top:0%;
+left:0%;
+position: absolute;
+background: linear-gradient(to top left, #0052cc 0%, #0047b3 20%, #003d99 40%, #003380 60%, #002966 80%, #001f4d 100% );
+height: 100%;
+width: 100%;
+} 
