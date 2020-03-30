@@ -341,4 +341,13 @@ font-size: 11pt;
 top: 33%;
 left: 82%;
 text-align: center;
+}
+
+#copyright{
+position: absolute;
+top: 85%;
+left:45%;
+color: #d9d9d9;
+font-family:Cambria;
+font-size: 15px;
 }	
