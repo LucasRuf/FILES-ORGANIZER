@@ -362,3 +362,14 @@ background: linear-gradient(to top left, #0052cc 0%, #0047b3 20%, #003d99 40%, #
 height: 100%;
 width: 100%;
 } 
+
+#boxuploadpag{
+top: 35%;
+left: 30%;
+position: absolute;
+background-image: url(../Imagens/backgroudboxpag.jpg);
+height: 30%;
+width: 40%;
+box-shadow: 10px 10px 10px #001f4d;
+border-radius: 35px 0px 35px 0px;
+}
