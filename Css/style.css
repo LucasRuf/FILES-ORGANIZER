@@ -441,3 +441,38 @@ color: #ffffff;
 position: absolute;
 top: 49%;
 }
+
+/*==================== PÁGINA HOME ====================*/
+
+#bntcentralupload{
+border-style: solid;
+border-color: #ffffff; 
+border-width: 3px; 
+padding: 8px; 
+width:8%;
+height:5%;
+font-size: 22px;
+border-radius: 20px;
+font-family:Candara;
+text-transform: uppercase;
+font-weight:800;
+cursor: pointer;
+position: absolute;
+top: 30%;
+left: 45%;
+text-align: center; 
+background: #002966;
+color: #ffffff;
+text-decoration: none;
+}
+#bntcentralupload:hover{
+background: #001f4d;
+color: #ffffff;
+border-radius: 22px;
+}
+#bntcentralupload:active{
+padding: 5px;
+background: #001f4d;
+color: #ffffff;
+border-radius: 15px;
+}
