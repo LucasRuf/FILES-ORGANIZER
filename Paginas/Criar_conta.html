@@ -8,6 +8,16 @@
 	<body id="backgroundregistroelogin">
 		<section id="boxregistroelogin">
 			<center><h1 id="textcadastroelogin">Cadastro</h1></center><br>
+			<center>
+			<form name="formuser" action="enviar.php" method="POST">
+			<input id="cad" type="text" name="nome" placeholder="NOME" required="true"><br><br>
+			<input type="text" id="cad" name="sobrenome" placeholder="SOBRENOME" required="true"><br><br>
+			<input type="text" id="cad" name="email" placeholder="E-MAIL" required="true"><br><br>
+			<input type="password" id="cad" name="senha" placeholder="SENHA" required="true"><br><br>
+			<input type="password" id="cad" name="rep_senha" placeholder="REPITA A SENHA" required="true"><br><br>
+			</center>
+			<center><input id="tec" type="submit" onclick="return validar1()"></center>
+			</form>
 			<a id="registroeloginvoltar" href="../Index.html"  >Voltar</a>
 		</section>				
 	</body>	

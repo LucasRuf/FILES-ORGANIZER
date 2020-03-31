@@ -8,6 +8,12 @@
 <body id="backgroundregistroelogin">
 	<section id="boxregistroelogin">
 		<center><h1 id="textcadastroelogin">Login</h1></center><br>
+		<form name="formuser" action="enviar.php" method="POST">
+		<center>
+		<input type="text" id="cad" name="email" placeholder="E-MAIL" required="true"><br><br>
+		<input type="password" id="cad" name="senha" placeholder="SENHA" required="true"><br><br><br>	
+		<input type="submit" onclick="return validar2()"></center>
+		</form>
 		<a id="registroeloginvoltar" href="../Index.html">Voltar</a>		
 	</section>				
 	</body>	

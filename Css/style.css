@@ -534,3 +534,22 @@ text-transform: uppercase;
 font-size:13px;
 }
 
+#cad{
+border-width: 0px 0px 2px 0px ;
+border-style: solid;
+border-color: #666666;
+}	
+ 
+#cad:hover{
+border-width: 0px 0px 2px 0px ;
+border-style: solid;
+border-color: blue;
+background-color: #e6f0ff;
+}
+
+#cad:active{
+border-width: 0px 0px 2px 0px ;
+border-color: #ffffff;
+background-color: #e6f0ff;
+}
+
