@@ -373,3 +373,71 @@ width: 40%;
 box-shadow: 10px 10px 10px #001f4d;
 border-radius: 35px 0px 35px 0px;
 }
+
+#uploadboxtitulo{
+position: absolute;
+text-transform: uppercase;
+color: #ffffff;
+font-family:arial black;
+top: 5%;
+left: 30%; 
+font-size: 130%;	
+}
+
+ #boxbtnupload1{
+ border-radius: 10px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+border-style: solid;
+border-color: #ffffff; /* cor da borda mesmo, que fica por fora de tudo */
+border-width: 3px; /* espessura das bordas */
+padding: 5px; /* aqui que você vai conseguir o efeito de "borda interna */
+padding:10px;
+cursor:pointer;
+position: absolute;
+top: 50%;
+left: 27%;
+background:linear-gradient(to top left, #0066ff 0%, #005ce6 20%, #0052cc 40%, #0047b3 60%, #003d99 80%, #003380 100% );
+color: #ffffff;
+text-decoration: none;
+}
+
+#boxbtnupload1:hover{
+background: #003d99;
+color: #ffffff;
+}
+
+#boxbtnupload1:active{
+position: absolute;
+top: 49% ;
+}
+
+#boxbtnupload2{
+border-radius: 10px;
+font-family:arial;
+text-transform: uppercase;
+font-weight:700;
+border-style: solid;
+border-color: #ffffff; 
+border-width: 3px; 
+padding: 5px; 
+padding:10px;
+cursor:pointer;
+position: absolute;
+top: 50%;
+left: 55%;
+background:linear-gradient(to top left, #0066ff 0%, #005ce6 20%, #0052cc 40%, #0047b3 60%, #003d99 80%, #003380 100% );
+color: #ffffff;
+text-decoration: none;
+}
+
+#boxbtnupload2:hover{
+background: #003d99;
+color: #ffffff;
+}
+
+#boxbtnupload2:active{
+position: absolute;
+top: 49%;
+}
