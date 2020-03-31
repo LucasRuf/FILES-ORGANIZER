@@ -493,3 +493,44 @@ position:absolute;
 top:55%; 
 left: 40%;
 }
+
+/*==================== PÁGINA CADASTRO & LOGIN ====================*/
+
+#backgroundregistroelogin{
+position: relative;
+color:black;
+background:#f2f2f2;
+}
+
+#boxregistroelogin{
+position: absolute;
+border-style: solid;
+border-color: #b3b3b3;
+background-color: #ffffff;
+border-width: 1px 0px 1px 0px;
+top: 18%;
+left: 38%;
+padding: 30px;
+height: 55%;
+width: 21%;
+box-shadow:  0px 0px 10px #8c8c8c;
+}
+
+#textcadastroelogin{
+text-transform: uppercase;
+font-size:17px;
+font-family:arial;
+color: #666666;
+}
+
+#registroeloginvoltar{
+position:absolute;
+color:#666666 ;
+text-decoration: none;
+font-family:arial;
+top: 95%;
+left: 80%;
+text-transform: uppercase;
+font-size:13px;
+}
+
