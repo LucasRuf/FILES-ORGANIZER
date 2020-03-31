@@ -1,0 +1,21 @@
+-FILES ORGANIZER
+
+VERSÃO FINAL (ALPHA 1.0)
+
+PROPOSTA:
+Uma aplicação onde o usuário organiza seus arquivos e armazena com segurança de forma
+online e dinâmica, com recursos únicos possibilitando até deixar arquivos publicos para
+qualquer pessoa poder baixar ou privados onde somente o úsuario proprietário pode acessar.
+
+DESENVOLVEDORES:
+LUCAS RUFO
+RAFAEL NOLETO
+GUILHERME GOMES
+ROBSON YUNEMI
+ENZZO KAZZELA
+GEOVANNA DE ALMEIDA
+
+OBS:
+A resolução pode ter pequenas alterações dependendo da tela do aparelho 
+devido a redundancia na escala da porcentagem e por ser uma versão acadêmica.
+
